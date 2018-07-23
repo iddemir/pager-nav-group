@@ -21,7 +21,7 @@
 |5| `showGoLastButton` | Show "Go last" button | `bool` |  | `true` |
 |5| `goLastButtonLabel` | "Go last" button label | `*` |  | Last |
 |-| `onChange` | Gives new page number | `function` |  |  |
-<p align="center">
-![alt](https://raw.githubusercontent.com/iddemir/pager-nav-group/master/res/bilgi.png)
-</p>
+
+![screenshot](https://raw.githubusercontent.com/iddemir/pager-nav-group/master/res/bilgi.png)
+
 
