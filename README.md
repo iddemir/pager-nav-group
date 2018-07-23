@@ -2,4 +2,4 @@
 
 > Pager Navigate Buttons Components
 
-![screenshot](https://raw.githubusercontent.com/iddemir/pager-nav-group/master/doc/example.png)
+![screenshot](https://raw.githubusercontent.com/iddemir/pager-nav-group/master/res/example.png)
