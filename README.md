@@ -25,3 +25,4 @@
 ![screenshot](https://raw.githubusercontent.com/iddemir/pager-nav-group/master/res/bilgi.png)
 
 
+## Usage
