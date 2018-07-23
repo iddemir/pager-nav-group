@@ -1,0 +1,40 @@
+body{
+    background-color: red;
+}
+.PagerNavWrapper{
+    display: inline-flex;
+}
+.PagerNavWrapper button{
+    border: none;
+    padding: 10px;
+    background-color: #FFF;
+    color: rgba(0,0,0,.87);
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+.PagerNavWrapper button:hover{
+    border: none;
+    padding: 10px;
+    background-color:rgba(100, 100, 100, .5);
+
+}
+.PagerNavWrapper button:first-child{
+    border: none;
+    padding: 10px;
+    background-color: #ddd;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+
+}
+.PagerNavWrapper button:last-child{
+    border: none;
+    padding: 10px;
+    background-color: #ddd;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+
+}
+.PagerNavWrapper .active-page{
+    color:red;
+}
