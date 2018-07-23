@@ -51,3 +51,26 @@ class App extends Component {
 
 export default App;
 ```
+## Edit Special CSS
+
+```css
+/*** pager container style ***/
+.PagerNavWrapper{
+  //Do your magic here
+}
+.PagerNavWrapper button{
+  //Do your magic here
+}
+.PagerNavWrapper button:hover{
+  //Do your magic here
+}
+.PagerNavWrapper button:first-child{
+  //Do your magic here
+}
+.PagerNavWrapper button:last-child{
+  //Do your magic here
+}
+.PagerNavWrapper .active-page{
+  //Do your magic here
+}
+```
